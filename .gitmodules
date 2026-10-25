@@ -8,6 +8,9 @@
 [submodule "fieldopt"]
 	path = fieldopt
 	url = https://github.com/castlaboratory/fieldopt
+[submodule "paretoinfer"]
+	path = paretoinfer
+	url = https://github.com/castlaboratory/paretoinfer
 [submodule "seqbench"]
 	path = seqbench
 	url = https://github.com/castlaboratory/seqbench
